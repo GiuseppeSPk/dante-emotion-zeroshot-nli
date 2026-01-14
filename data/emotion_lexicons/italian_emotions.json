@@ -1,0 +1,256 @@
+{
+    "_metadata": {
+        "description": "Lexical dictionary for Emotion Detection in Italian",
+        "categories": "Based on Ekman's model (1992) + hope",
+        "note": "Includes mappings for Dante's Old Italian",
+        "version": "1.0"
+    },
+    "paura": {
+        "description": "Dominant emotion in Canto I - forest, beasts, disorientation",
+        "keywords_modern": [
+            "paura",
+            "terrore",
+            "timore",
+            "spavento",
+            "orrore",
+            "angoscia",
+            "ansia",
+            "tremore",
+            "sgomento",
+            "panico",
+            "pauroso",
+            "spaventoso",
+            "terribile",
+            "tremendo",
+            "tremare",
+            "temere",
+            "spaventare",
+            "terrorizzare"
+        ],
+        "keywords_dante": [
+            "paura",
+            "pièta",
+            "compunto",
+            "affannata",
+            "perigliosa",
+            "fuggiva",
+            "smarrita",
+            "oscura",
+            "amara",
+            "morte",
+            "tremar",
+            "rabbiosa",
+            "selvaggio",
+            "diserto"
+        ],
+        "weight": 1.0
+    },
+    "tristezza": {
+        "description": "Melancholy, loss, spiritual suffering",
+        "keywords_modern": [
+            "tristezza",
+            "dolore",
+            "sofferenza",
+            "malinconia",
+            "pena",
+            "afflizione",
+            "mestizia",
+            "cordoglio",
+            "lutto",
+            "pianto",
+            "triste",
+            "doloroso",
+            "afflitto",
+            "addolorato",
+            "piangere",
+            "soffrire",
+            "lamentare",
+            "gemere"
+        ],
+        "keywords_dante": [
+            "pièta",
+            "doglia",
+            "grame",
+            "dolenti",
+            "mesti",
+            "piange",
+            "attrista",
+            "lagrimar",
+            "disperate"
+        ],
+        "weight": 1.0
+    },
+    "gioia": {
+        "description": "Rare in Canto I - associated with light and hope",
+        "keywords_modern": [
+            "gioia",
+            "felicità",
+            "allegria",
+            "letizia",
+            "contentezza",
+            "esultanza",
+            "tripudio",
+            "gaudio",
+            "beatitudine",
+            "felice",
+            "lieto",
+            "gioioso",
+            "contento",
+            "gioire",
+            "rallegrare",
+            "esultare"
+        ],
+        "keywords_dante": [
+            "gioia",
+            "dilettoso",
+            "dolce",
+            "bene",
+            "beato",
+            "contenti",
+            "felice",
+            "raggi",
+            "luce"
+        ],
+        "weight": 1.0
+    },
+    "rabbia": {
+        "description": "Fury, aggressiveness - associated with the beasts",
+        "keywords_modern": [
+            "rabbia",
+            "ira",
+            "furia",
+            "collera",
+            "sdegno",
+            "indignazione",
+            "furore",
+            "stizza",
+            "livore",
+            "rabbioso",
+            "irato",
+            "furioso",
+            "adirato",
+            "infuriare",
+            "adirare",
+            "sdegnare"
+        ],
+        "keywords_dante": [
+            "rabbiosa",
+            "fame",
+            "superbo",
+            "malvagia",
+            "ria",
+            "bramosa",
+            "uccide"
+        ],
+        "weight": 1.0
+    },
+    "sorpresa": {
+        "description": "Astonishment, wonder - encounter with Virgil",
+        "keywords_modern": [
+            "sorpresa",
+            "stupore",
+            "meraviglia",
+            "sbigottimento",
+            "sbalordimento",
+            "incredulità",
+            "sorpreso",
+            "stupito",
+            "meravigliato",
+            "sbalordito",
+            "sorprendersi",
+            "stupirsi",
+            "meravigliarsi"
+        ],
+        "keywords_dante": [
+            "ecco",
+            "apparve",
+            "offerto",
+            "gridai"
+        ],
+        "weight": 1.0
+    },
+    "disgusto": {
+        "description": "Repulsion, rejection - linked to sin",
+        "keywords_modern": [
+            "disgusto",
+            "repulsione",
+            "ribrezzo",
+            "nausea",
+            "ripugnanza",
+            "avversione",
+            "schifo",
+            "disgustoso",
+            "ripugnante",
+            "nauseante",
+            "disgustare",
+            "ripugnare"
+        ],
+        "keywords_dante": [
+            "amara",
+            "brame",
+            "magrezza",
+            "carca"
+        ],
+        "weight": 1.0
+    },
+    "speranza": {
+        "description": "Added to Ekman's model for Dante - light, salvation",
+        "keywords_modern": [
+            "speranza",
+            "fiducia",
+            "aspettativa",
+            "attesa",
+            "sperare",
+            "confidare",
+            "aspettare",
+            "attendere",
+            "speranzoso",
+            "fiducioso"
+        ],
+        "keywords_dante": [
+            "speranza",
+            "sperar",
+            "speran",
+            "altezza",
+            "salire",
+            "dilettoso",
+            "monte",
+            "colle",
+            "raggi",
+            "sole",
+            "guida",
+            "salute"
+        ],
+        "weight": 1.0
+    },
+    "smarrimento": {
+        "description": "Bewilderment, getting lost - specific to the Dark Forest",
+        "keywords_modern": [
+            "smarrimento",
+            "disorientamento",
+            "confusione",
+            "perdita",
+            "smarrire",
+            "perdersi",
+            "vagare",
+            "errante",
+            "dubbio",
+            "incertezza"
+        ],
+        "keywords_dante": [
+            "smarrita",
+            "smarrito",
+            "abbandonai",
+            "non so",
+            "errar",
+            "errore",
+            "selva",
+            "oscura",
+            "cieco",
+            "basso",
+            "diserto",
+            "valle"
+        ],
+        "weight": 1.0
+    }
+}

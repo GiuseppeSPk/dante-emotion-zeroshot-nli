@@ -1,0 +1,45 @@
+# Dante Emotion Analysis - .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Models (large files - download separately)
+models/
+*.bin
+*.vec
+*.model
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output (uncomment to exclude if repo gets too large)
+# output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# PDFs (regenerable from markdown)
+*.pdf

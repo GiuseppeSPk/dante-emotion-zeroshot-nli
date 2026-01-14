@@ -1,0 +1,17 @@
+# Dante Emotion Analysis - Dependencies
+# Python 3.9+
+
+# Core NLP & Deep Learning
+transformers>=4.30.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+protobuf>=4.0.0
+
+# Visualization & Data
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Progress Tracking
+tqdm>=4.65.0

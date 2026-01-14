@@ -1,0 +1,632 @@
+[
+  {
+    "start_tercet": 1,
+    "end_tercet": 2,
+    "text_snippet": "Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita. Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura!",
+    "top_emotion": "paura",
+    "confidence": 0.39442840218544006,
+    "scores": {
+      "paura": 0.39442840218544006,
+      "smarrimento": 0.38229313492774963,
+      "tristezza": 0.15998722612857819,
+      "rabbia": 0.0631432831287384,
+      "speranza": 0.00014789773558732122
+    }
+  },
+  {
+    "start_tercet": 2,
+    "end_tercet": 3,
+    "text_snippet": "Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura! Tant' è amara che poco è più morte; ma per trattar del ben ch'i' vi trovai, dirò de l'altre cose ch'i' v'ho scorte.",
+    "top_emotion": "paura",
+    "confidence": 0.3628726899623871,
+    "scores": {
+      "paura": 0.3628726899623871,
+      "tristezza": 0.2815037667751312,
+      "rabbia": 0.24745766818523407,
+      "smarrimento": 0.10789530724287033,
+      "speranza": 0.00027059827698394656
+    }
+  },
+  {
+    "start_tercet": 3,
+    "end_tercet": 4,
+    "text_snippet": "Tant' è amara che poco è più morte; ma per trattar del ben ch'i' vi trovai, dirò de l'altre cose ch'i' v'ho scorte. Io non so ben ridir com' i' v'intrai, tant' era pien di sonno a quel punto che la verace via abbandonai.",
+    "top_emotion": "tristezza",
+    "confidence": 0.39560121297836304,
+    "scores": {
+      "tristezza": 0.39560121297836304,
+      "rabbia": 0.26045703887939453,
+      "smarrimento": 0.2236526608467102,
+      "paura": 0.11971265822649002,
+      "speranza": 0.0005764634697698057
+    }
+  },
+  {
+    "start_tercet": 4,
+    "end_tercet": 5,
+    "text_snippet": "Io non so ben ridir com' i' v'intrai, tant' era pien di sonno a quel punto che la verace via abbandonai. Ma poi ch'i' fui al piè d'un colle giunto, là dove terminava quella valle che m'avea di paura il cor compunto,",
+    "top_emotion": "paura",
+    "confidence": 0.6510782241821289,
+    "scores": {
+      "paura": 0.6510782241821289,
+      "smarrimento": 0.31484082341194153,
+      "tristezza": 0.018325934186577797,
+      "rabbia": 0.01387372612953186,
+      "speranza": 0.0018812756752595305
+    }
+  },
+  {
+    "start_tercet": 5,
+    "end_tercet": 6,
+    "text_snippet": "Ma poi ch'i' fui al piè d'un colle giunto, là dove terminava quella valle che m'avea di paura il cor compunto, guardai in alto e vidi le sue spalle vestite già de' raggi del pianeta che mena dritto altrui per ogne calle.",
+    "top_emotion": "paura",
+    "confidence": 0.7821475863456726,
+    "scores": {
+      "paura": 0.7821475863456726,
+      "smarrimento": 0.11648313701152802,
+      "tristezza": 0.05088771507143974,
+      "rabbia": 0.045793987810611725,
+      "speranza": 0.004687582608312368
+    }
+  },
+  {
+    "start_tercet": 6,
+    "end_tercet": 7,
+    "text_snippet": "guardai in alto e vidi le sue spalle vestite già de' raggi del pianeta che mena dritto altrui per ogne calle. Allor fu la paura un poco queta, che nel lago del cor m'era durata la notte ch'i' passai con tanta pièta.",
+    "top_emotion": "paura",
+    "confidence": 0.7017111778259277,
+    "scores": {
+      "paura": 0.7017111778259277,
+      "smarrimento": 0.17229792475700378,
+      "tristezza": 0.09240472316741943,
+      "rabbia": 0.033206332474946976,
+      "speranza": 0.0003798562102019787
+    }
+  },
+  {
+    "start_tercet": 7,
+    "end_tercet": 8,
+    "text_snippet": "Allor fu la paura un poco queta, che nel lago del cor m'era durata la notte ch'i' passai con tanta pièta. E come quei che con lena affannata, uscito fuor del pelago a la riva, si volge a l'acqua perigliosa e guata,",
+    "top_emotion": "paura",
+    "confidence": 0.3910871148109436,
+    "scores": {
+      "paura": 0.3910871148109436,
+      "rabbia": 0.2428315132856369,
+      "tristezza": 0.20851773023605347,
+      "smarrimento": 0.15739744901657104,
+      "speranza": 0.00016617040091659874
+    }
+  },
+  {
+    "start_tercet": 8,
+    "end_tercet": 9,
+    "text_snippet": "E come quei che con lena affannata, uscito fuor del pelago a la riva, si volge a l'acqua perigliosa e guata, così l'animo mio, ch'ancor fuggiva, si volse a retro a rimirar lo passo che non lasciò già mai persona viva.",
+    "top_emotion": "smarrimento",
+    "confidence": 0.3168894350528717,
+    "scores": {
+      "smarrimento": 0.3168894350528717,
+      "rabbia": 0.2556244134902954,
+      "tristezza": 0.22558775544166565,
+      "paura": 0.2006419152021408,
+      "speranza": 0.0012564364587888122
+    }
+  },
+  {
+    "start_tercet": 9,
+    "end_tercet": 10,
+    "text_snippet": "così l'animo mio, ch'ancor fuggiva, si volse a retro a rimirar lo passo che non lasciò già mai persona viva. Poi ch'èi posato un poco il corpo lasso, ripresi via per la piaggia diserta, sì che 'l piè fermo sempre era 'l più basso.",
+    "top_emotion": "smarrimento",
+    "confidence": 0.9012110233306885,
+    "scores": {
+      "smarrimento": 0.9012110233306885,
+      "speranza": 0.05556795001029968,
+      "rabbia": 0.016461892053484917,
+      "paura": 0.014671114273369312,
+      "tristezza": 0.012088032439351082
+    }
+  },
+  {
+    "start_tercet": 10,
+    "end_tercet": 11,
+    "text_snippet": "Poi ch'èi posato un poco il corpo lasso, ripresi via per la piaggia diserta, sì che 'l piè fermo sempre era 'l più basso. Ed ecco, quasi al cominciar de l'erta, una lonza leggiera e presta molto, che di pel macolato era coverta;",
+    "top_emotion": "smarrimento",
+    "confidence": 0.2687190771102905,
+    "scores": {
+      "smarrimento": 0.2687190771102905,
+      "speranza": 0.250963419675827,
+      "paura": 0.17883077263832092,
+      "tristezza": 0.16410432755947113,
+      "rabbia": 0.137382373213768
+    }
+  },
+  {
+    "start_tercet": 11,
+    "end_tercet": 12,
+    "text_snippet": "Ed ecco, quasi al cominciar de l'erta, una lonza leggiera e presta molto, che di pel macolato era coverta; e non mi si partia dinanzi al volto, anzi 'mpediva tanto il mio cammino, ch'i' fui per ritornar più volte vòlto.",
+    "top_emotion": "smarrimento",
+    "confidence": 0.4371003806591034,
+    "scores": {
+      "smarrimento": 0.4371003806591034,
+      "speranza": 0.1935821771621704,
+      "paura": 0.14308743178844452,
+      "rabbia": 0.1278875321149826,
+      "tristezza": 0.09834246337413788
+    }
+  },
+  {
+    "start_tercet": 12,
+    "end_tercet": 13,
+    "text_snippet": "e non mi si partia dinanzi al volto, anzi 'mpediva tanto il mio cammino, ch'i' fui per ritornar più volte vòlto. Temp' era dal principio del mattino, e 'l sol montava 'n sù con quelle stelle ch'eran con lui quando l'amor divino",
+    "top_emotion": "smarrimento",
+    "confidence": 0.4034017324447632,
+    "scores": {
+      "smarrimento": 0.4034017324447632,
+      "tristezza": 0.3129447400569916,
+      "paura": 0.2262878715991974,
+      "rabbia": 0.0426429808139801,
+      "speranza": 0.014722634106874466
+    }
+  },
+  {
+    "start_tercet": 13,
+    "end_tercet": 14,
+    "text_snippet": "Temp' era dal principio del mattino, e 'l sol montava 'n sù con quelle stelle ch'eran con lui quando l'amor divino mosse di prima quelle cose belle; sì ch'a bene sperar m'era cagione di quella fiera a la gaetta pelle",
+    "top_emotion": "speranza",
+    "confidence": 0.9902730584144592,
+    "scores": {
+      "speranza": 0.9902730584144592,
+      "rabbia": 0.006012585014104843,
+      "smarrimento": 0.002073079813271761,
+      "paura": 0.0011020803358405828,
+      "tristezza": 0.0005392131861299276
+    }
+  },
+  {
+    "start_tercet": 14,
+    "end_tercet": 15,
+    "text_snippet": "mosse di prima quelle cose belle; sì ch'a bene sperar m'era cagione di quella fiera a la gaetta pelle l'ora del tempo e la dolce stagione; ma non sì che paura non mi desse la vista che m'apparve d'un leone.",
+    "top_emotion": "speranza",
+    "confidence": 0.7152444124221802,
+    "scores": {
+      "speranza": 0.7152444124221802,
+      "paura": 0.2822905480861664,
+      "rabbia": 0.0015075939008966088,
+      "smarrimento": 0.0006396034150384367,
+      "tristezza": 0.0003178658662363887
+    }
+  },
+  {
+    "start_tercet": 15,
+    "end_tercet": 16,
+    "text_snippet": "l'ora del tempo e la dolce stagione; ma non sì che paura non mi desse la vista che m'apparve d'un leone. Questi parea che contra me venisse con la test' alta e con rabbiosa fame, sì che parea che l'aere ne tremesse.",
+    "top_emotion": "paura",
+    "confidence": 0.5494139790534973,
+    "scores": {
+      "paura": 0.5494139790534973,
+      "rabbia": 0.373207151889801,
+      "smarrimento": 0.06092439219355583,
+      "tristezza": 0.015404097735881805,
+      "speranza": 0.0010503114899620414
+    }
+  },
+  {
+    "start_tercet": 16,
+    "end_tercet": 17,
+    "text_snippet": "Questi parea che contra me venisse con la test' alta e con rabbiosa fame, sì che parea che l'aere ne tremesse. Ed una lupa, che di tutte brame sembiava carca ne la sua magrezza, e molte genti fé già viver grame,",
+    "top_emotion": "rabbia",
+    "confidence": 0.5236751437187195,
+    "scores": {
+      "rabbia": 0.5236751437187195,
+      "paura": 0.2903328239917755,
+      "tristezza": 0.10014054924249649,
+      "smarrimento": 0.08532081544399261,
+      "speranza": 0.0005306462408043444
+    }
+  },
+  {
+    "start_tercet": 17,
+    "end_tercet": 18,
+    "text_snippet": "Ed una lupa, che di tutte brame sembiava carca ne la sua magrezza, e molte genti fé già viver grame, questa mi porse tanto di gravezza con la paura ch'uscia di sua vista, ch'io perdei la speranza de l'altezza.",
+    "top_emotion": "paura",
+    "confidence": 0.3504463732242584,
+    "scores": {
+      "paura": 0.3504463732242584,
+      "rabbia": 0.21930372714996338,
+      "tristezza": 0.21844877302646637,
+      "smarrimento": 0.2076326161623001,
+      "speranza": 0.004168545361608267
+    }
+  },
+  {
+    "start_tercet": 18,
+    "end_tercet": 19,
+    "text_snippet": "questa mi porse tanto di gravezza con la paura ch'uscia di sua vista, ch'io perdei la speranza de l'altezza. E qual è quei che volontieri acquista, e giugne 'l tempo che perder lo face, che 'n tutti suoi pensier piange e s'attrista;",
+    "top_emotion": "paura",
+    "confidence": 0.2945811450481415,
+    "scores": {
+      "paura": 0.2945811450481415,
+      "tristezza": 0.2519686222076416,
+      "smarrimento": 0.24043013155460358,
+      "rabbia": 0.21217884123325348,
+      "speranza": 0.000841268920339644
+    }
+  },
+  {
+    "start_tercet": 19,
+    "end_tercet": 20,
+    "text_snippet": "E qual è quei che volontieri acquista, e giugne 'l tempo che perder lo face, che 'n tutti suoi pensier piange e s'attrista; tal mi fece la bestia sanza pace, che, venendomi 'ncontro, a poco a poco mi ripigneva là dove 'l sol tace.",
+    "top_emotion": "tristezza",
+    "confidence": 0.35109809041023254,
+    "scores": {
+      "tristezza": 0.35109809041023254,
+      "rabbia": 0.25989672541618347,
+      "smarrimento": 0.21630527079105377,
+      "paura": 0.16074442863464355,
+      "speranza": 0.011955398134887218
+    }
+  },
+  {
+    "start_tercet": 20,
+    "end_tercet": 21,
+    "text_snippet": "tal mi fece la bestia sanza pace, che, venendomi 'ncontro, a poco a poco mi ripigneva là dove 'l sol tace. Mentre ch'i' rovinava in basso loco, dinanzi a li occhi mi si fu offerto chi per lungo silenzio parea fioco.",
+    "top_emotion": "rabbia",
+    "confidence": 0.6653997302055359,
+    "scores": {
+      "rabbia": 0.6653997302055359,
+      "smarrimento": 0.14542144536972046,
+      "paura": 0.10731544345617294,
+      "tristezza": 0.04354633390903473,
+      "speranza": 0.038317080587148666
+    }
+  },
+  {
+    "start_tercet": 21,
+    "end_tercet": 22,
+    "text_snippet": "Mentre ch'i' rovinava in basso loco, dinanzi a li occhi mi si fu offerto chi per lungo silenzio parea fioco. Quando vidi costui nel gran diserto, «Miserere di me», gridai a lui, «qual che tu sii, od ombra od omo certo!».",
+    "top_emotion": "smarrimento",
+    "confidence": 0.567267894744873,
+    "scores": {
+      "smarrimento": 0.567267894744873,
+      "speranza": 0.1706576943397522,
+      "rabbia": 0.15001775324344635,
+      "tristezza": 0.08631636947393417,
+      "paura": 0.025740310549736023
+    }
+  },
+  {
+    "start_tercet": 22,
+    "end_tercet": 23,
+    "text_snippet": "Quando vidi costui nel gran diserto, «Miserere di me», gridai a lui, «qual che tu sii, od ombra od omo certo!». Rispuosemi: «Non omo, omo già fui, e li parenti miei furon lombardi, mantoani per patrïa ambedui.",
+    "top_emotion": "smarrimento",
+    "confidence": 0.5368102192878723,
+    "scores": {
+      "smarrimento": 0.5368102192878723,
+      "speranza": 0.15141426026821136,
+      "rabbia": 0.1508239507675171,
+      "tristezza": 0.14003531634807587,
+      "paura": 0.020916270092129707
+    }
+  },
+  {
+    "start_tercet": 23,
+    "end_tercet": 24,
+    "text_snippet": "Rispuosemi: «Non omo, omo già fui, e li parenti miei furon lombardi, mantoani per patrïa ambedui. Nacqui sub Iulio, ancor che fosse tardi, e vissi a Roma sotto 'l buono Augusto nel tempo de li dèi falsi e bugiardi.",
+    "top_emotion": "smarrimento",
+    "confidence": 0.5888617634773254,
+    "scores": {
+      "smarrimento": 0.5888617634773254,
+      "speranza": 0.27171507477760315,
+      "rabbia": 0.11216694116592407,
+      "tristezza": 0.014379292726516724,
+      "paura": 0.012876932509243488
+    }
+  },
+  {
+    "start_tercet": 24,
+    "end_tercet": 25,
+    "text_snippet": "Nacqui sub Iulio, ancor che fosse tardi, e vissi a Roma sotto 'l buono Augusto nel tempo de li dèi falsi e bugiardi. Poeta fui, e cantai di quel giusto figliuol d'Anchise che venne di Troia, poi che 'l superbo Ilïón fu combusto.",
+    "top_emotion": "rabbia",
+    "confidence": 0.33406496047973633,
+    "scores": {
+      "rabbia": 0.33406496047973633,
+      "smarrimento": 0.22329716384410858,
+      "tristezza": 0.18475864827632904,
+      "paura": 0.1614644080400467,
+      "speranza": 0.09641481190919876
+    }
+  },
+  {
+    "start_tercet": 25,
+    "end_tercet": 26,
+    "text_snippet": "Poeta fui, e cantai di quel giusto figliuol d'Anchise che venne di Troia, poi che 'l superbo Ilïón fu combusto. Ma tu perché ritorni a tanta noia? perché non sali il dilettoso monte ch'è principio e cagion di tutta gioia?».",
+    "top_emotion": "smarrimento",
+    "confidence": 0.5430700778961182,
+    "scores": {
+      "smarrimento": 0.5430700778961182,
+      "rabbia": 0.2901172637939453,
+      "tristezza": 0.09736709296703339,
+      "paura": 0.05746319144964218,
+      "speranza": 0.011982427909970284
+    }
+  },
+  {
+    "start_tercet": 26,
+    "end_tercet": 27,
+    "text_snippet": "Ma tu perché ritorni a tanta noia? perché non sali il dilettoso monte ch'è principio e cagion di tutta gioia?». «Or se' tu quel Virgilio e quella fonte che spandi di parlar sì largo fiume?», rispuos' io lui con vergognosa fronte.",
+    "top_emotion": "smarrimento",
+    "confidence": 0.4027182459831238,
+    "scores": {
+      "smarrimento": 0.4027182459831238,
+      "rabbia": 0.2667009234428406,
+      "paura": 0.2579910159111023,
+      "tristezza": 0.0671696588397026,
+      "speranza": 0.005420194938778877
+    }
+  },
+  {
+    "start_tercet": 27,
+    "end_tercet": 28,
+    "text_snippet": "«Or se' tu quel Virgilio e quella fonte che spandi di parlar sì largo fiume?», rispuos' io lui con vergognosa fronte. «O de li altri poeti onore e lume, vagliami 'l lungo studio e 'l grande amore che m'ha fatto cercar lo tuo volume.",
+    "top_emotion": "paura",
+    "confidence": 0.33941850066185,
+    "scores": {
+      "paura": 0.33941850066185,
+      "rabbia": 0.2754068672657013,
+      "tristezza": 0.24162578582763672,
+      "smarrimento": 0.1401156485080719,
+      "speranza": 0.00343316956423223
+    }
+  },
+  {
+    "start_tercet": 28,
+    "end_tercet": 29,
+    "text_snippet": "«O de li altri poeti onore e lume, vagliami 'l lungo studio e 'l grande amore che m'ha fatto cercar lo tuo volume. Tu se' lo mio maestro e 'l mio autore, tu se' solo colui da cu' io tolsi lo bello stilo che m'ha fatto onore.",
+    "top_emotion": "speranza",
+    "confidence": 0.9399414658546448,
+    "scores": {
+      "speranza": 0.9399414658546448,
+      "smarrimento": 0.023995080962777138,
+      "tristezza": 0.014840801246464252,
+      "rabbia": 0.011603263206779957,
+      "paura": 0.009619442746043205
+    }
+  },
+  {
+    "start_tercet": 29,
+    "end_tercet": 30,
+    "text_snippet": "Tu se' lo mio maestro e 'l mio autore, tu se' solo colui da cu' io tolsi lo bello stilo che m'ha fatto onore. Vedi la bestia per cu' io mi volsi; aiutami da lei, famoso saggio, ch'ella mi fa tremar le vene e i polsi».",
+    "top_emotion": "rabbia",
+    "confidence": 0.5827763080596924,
+    "scores": {
+      "rabbia": 0.5827763080596924,
+      "paura": 0.252614825963974,
+      "smarrimento": 0.10530553758144379,
+      "tristezza": 0.057702671736478806,
+      "speranza": 0.0016005422221496701
+    }
+  },
+  {
+    "start_tercet": 30,
+    "end_tercet": 31,
+    "text_snippet": "Vedi la bestia per cu' io mi volsi; aiutami da lei, famoso saggio, ch'ella mi fa tremar le vene e i polsi». «A te convien tenere altro vïaggio», rispuose, poi che lagrimar mi vide, «se vuo' campar d'esto loco selvaggio;",
+    "top_emotion": "rabbia",
+    "confidence": 0.5598724484443665,
+    "scores": {
+      "rabbia": 0.5598724484443665,
+      "paura": 0.4193251132965088,
+      "smarrimento": 0.018805593252182007,
+      "speranza": 0.0011905182618647814,
+      "tristezza": 0.0008063321001827717
+    }
+  },
+  {
+    "start_tercet": 31,
+    "end_tercet": 32,
+    "text_snippet": "«A te convien tenere altro vïaggio», rispuose, poi che lagrimar mi vide, «se vuo' campar d'esto loco selvaggio; ché questa bestia, per la qual tu gride, non lascia altrui passar per la sua via, ma tanto lo 'mpedisce che l'uccide;",
+    "top_emotion": "rabbia",
+    "confidence": 0.4060192406177521,
+    "scores": {
+      "rabbia": 0.4060192406177521,
+      "smarrimento": 0.24530303478240967,
+      "paura": 0.24530303478240967,
+      "tristezza": 0.1024574264883995,
+      "speranza": 0.0009172521531581879
+    }
+  },
+  {
+    "start_tercet": 32,
+    "end_tercet": 33,
+    "text_snippet": "ché questa bestia, per la qual tu gride, non lascia altrui passar per la sua via, ma tanto lo 'mpedisce che l'uccide; e ha natura sì malvagia e ria, che mai non empie la bramosa voglia, e dopo 'l pasto ha più fame che pria.",
+    "top_emotion": "rabbia",
+    "confidence": 0.5475497841835022,
+    "scores": {
+      "rabbia": 0.5475497841835022,
+      "paura": 0.3071475625038147,
+      "tristezza": 0.07919076085090637,
+      "smarrimento": 0.06565144658088684,
+      "speranza": 0.0004604268178809434
+    }
+  },
+  {
+    "start_tercet": 33,
+    "end_tercet": 34,
+    "text_snippet": "e ha natura sì malvagia e ria, che mai non empie la bramosa voglia, e dopo 'l pasto ha più fame che pria. Molti son li animali a cui s'ammoglia, e più saranno ancora, infin che 'l veltro verrà, che la farà morir con doglia.",
+    "top_emotion": "rabbia",
+    "confidence": 0.5781604647636414,
+    "scores": {
+      "rabbia": 0.5781604647636414,
+      "paura": 0.20335018634796143,
+      "tristezza": 0.11496376246213913,
+      "smarrimento": 0.10225089639425278,
+      "speranza": 0.0012746400898322463
+    }
+  },
+  {
+    "start_tercet": 34,
+    "end_tercet": 35,
+    "text_snippet": "Molti son li animali a cui s'ammoglia, e più saranno ancora, infin che 'l veltro verrà, che la farà morir con doglia. Questi non ciberà terra né peltro, ma sapïenza, amore e virtute, e sua nazion sarà tra feltro e feltro.",
+    "top_emotion": "tristezza",
+    "confidence": 0.5968933701515198,
+    "scores": {
+      "tristezza": 0.5968933701515198,
+      "paura": 0.25077372789382935,
+      "rabbia": 0.12365802377462387,
+      "smarrimento": 0.021826935932040215,
+      "speranza": 0.006848058197647333
+    }
+  },
+  {
+    "start_tercet": 35,
+    "end_tercet": 36,
+    "text_snippet": "Questi non ciberà terra né peltro, ma sapïenza, amore e virtute, e sua nazion sarà tra feltro e feltro. Di quella umile Italia fia salute per cui morì la vergine Cammilla, Eurialo e Turno e Niso di ferute.",
+    "top_emotion": "speranza",
+    "confidence": 0.6538266539573669,
+    "scores": {
+      "speranza": 0.6538266539573669,
+      "tristezza": 0.24998892843723297,
+      "paura": 0.04872355982661247,
+      "rabbia": 0.024332834407687187,
+      "smarrimento": 0.02312803454697132
+    }
+  },
+  {
+    "start_tercet": 36,
+    "end_tercet": 37,
+    "text_snippet": "Di quella umile Italia fia salute per cui morì la vergine Cammilla, Eurialo e Turno e Niso di ferute. Questi la caccerà per ogne villa, fin che l'avrà rimessa ne lo 'nferno, là onde 'nvidia prima dipartilla.",
+    "top_emotion": "tristezza",
+    "confidence": 0.2880631983280182,
+    "scores": {
+      "tristezza": 0.2880631983280182,
+      "smarrimento": 0.23834678530693054,
+      "paura": 0.23603050410747528,
+      "rabbia": 0.19002659618854523,
+      "speranza": 0.04753289371728897
+    }
+  },
+  {
+    "start_tercet": 37,
+    "end_tercet": 38,
+    "text_snippet": "Questi la caccerà per ogne villa, fin che l'avrà rimessa ne lo 'nferno, là onde 'nvidia prima dipartilla. Ond' io per lo tuo me' penso e discerno che tu mi segui, e io sarò tua guida, e trarrotti di qui per loco etterno;",
+    "top_emotion": "smarrimento",
+    "confidence": 0.5045305490493774,
+    "scores": {
+      "smarrimento": 0.5045305490493774,
+      "speranza": 0.24254967272281647,
+      "rabbia": 0.14884793758392334,
+      "paura": 0.062291909009218216,
+      "tristezza": 0.04177998751401901
+    }
+  },
+  {
+    "start_tercet": 38,
+    "end_tercet": 39,
+    "text_snippet": "Ond' io per lo tuo me' penso e discerno che tu mi segui, e io sarò tua guida, e trarrotti di qui per loco etterno; ove udirai le disperate strida, vedrai li antichi spiriti dolenti, ch'a la seconda morte ciascun grida;",
+    "top_emotion": "smarrimento",
+    "confidence": 0.2760652005672455,
+    "scores": {
+      "smarrimento": 0.2760652005672455,
+      "rabbia": 0.2583281993865967,
+      "tristezza": 0.24173077940940857,
+      "paura": 0.22356441617012024,
+      "speranza": 0.00031146378023549914
+    }
+  },
+  {
+    "start_tercet": 39,
+    "end_tercet": 40,
+    "text_snippet": "ove udirai le disperate strida, vedrai li antichi spiriti dolenti, ch'a la seconda morte ciascun grida; e vederai color che son contenti nel foco, perché speran di venire quando che sia a le beate genti.",
+    "top_emotion": "tristezza",
+    "confidence": 0.2600818872451782,
+    "scores": {
+      "tristezza": 0.2600818872451782,
+      "rabbia": 0.241477832198143,
+      "speranza": 0.21227262914180756,
+      "paura": 0.2025519460439682,
+      "smarrimento": 0.08361565321683884
+    }
+  },
+  {
+    "start_tercet": 40,
+    "end_tercet": 41,
+    "text_snippet": "e vederai color che son contenti nel foco, perché speran di venire quando che sia a le beate genti. A le quai poi se tu vorrai salire, anima fia a ciò più di me degna: con lei ti lascerò nel mio partire;",
+    "top_emotion": "speranza",
+    "confidence": 0.9938041567802429,
+    "scores": {
+      "speranza": 0.9938041567802429,
+      "rabbia": 0.00263124774210155,
+      "smarrimento": 0.001818167744204402,
+      "paura": 0.0011636250419542193,
+      "tristezza": 0.0005828263238072395
+    }
+  },
+  {
+    "start_tercet": 41,
+    "end_tercet": 42,
+    "text_snippet": "A le quai poi se tu vorrai salire, anima fia a ciò più di me degna: con lei ti lascerò nel mio partire; ché quello imperador che là sù regna, perch' i' fu' ribellante a la sua legge, non vuol che 'n sua città per me si vegna.",
+    "top_emotion": "rabbia",
+    "confidence": 0.3079463541507721,
+    "scores": {
+      "rabbia": 0.3079463541507721,
+      "smarrimento": 0.2043367326259613,
+      "tristezza": 0.1831662803888321,
+      "speranza": 0.1654769480228424,
+      "paura": 0.13907365500926971
+    }
+  },
+  {
+    "start_tercet": 42,
+    "end_tercet": 43,
+    "text_snippet": "ché quello imperador che là sù regna, perch' i' fu' ribellante a la sua legge, non vuol che 'n sua città per me si vegna. In tutte parti impera e quivi regge; quivi è la sua città e l'alto seggio: oh felice colui cu' ivi elegge!».",
+    "top_emotion": "rabbia",
+    "confidence": 0.33177363872528076,
+    "scores": {
+      "rabbia": 0.33177363872528076,
+      "speranza": 0.31045737862586975,
+      "paura": 0.2218739092350006,
+      "smarrimento": 0.12110288441181183,
+      "tristezza": 0.01479221973568201
+    }
+  },
+  {
+    "start_tercet": 43,
+    "end_tercet": 44,
+    "text_snippet": "In tutte parti impera e quivi regge; quivi è la sua città e l'alto seggio: oh felice colui cu' ivi elegge!». E io a lui: «Poeta, io ti richeggio per quello Dio che tu non conoscesti, acciò ch'io fugga questo male e peggio,",
+    "top_emotion": "paura",
+    "confidence": 0.3427794575691223,
+    "scores": {
+      "paura": 0.3427794575691223,
+      "speranza": 0.33483895659446716,
+      "rabbia": 0.24497342109680176,
+      "smarrimento": 0.06991242617368698,
+      "tristezza": 0.007495729252696037
+    }
+  },
+  {
+    "start_tercet": 44,
+    "end_tercet": 45,
+    "text_snippet": "E io a lui: «Poeta, io ti richeggio per quello Dio che tu non conoscesti, acciò ch'io fugga questo male e peggio, che tu mi meni là dov' or dicesti, sì ch'io veggia la porta di san Pietro e color cui tu fai cotanto mesti».",
+    "top_emotion": "rabbia",
+    "confidence": 0.3155722916126251,
+    "scores": {
+      "rabbia": 0.3155722916126251,
+      "paura": 0.29877784848213196,
+      "smarrimento": 0.22641205787658691,
+      "speranza": 0.1375943273305893,
+      "tristezza": 0.021643394604325294
+    }
+  },
+  {
+    "start_tercet": 45,
+    "end_tercet": 46,
+    "text_snippet": "che tu mi meni là dov' or dicesti, sì ch'io veggia la porta di san Pietro e color cui tu fai cotanto mesti». Allor si mosse, e io li tenni dietro.",
+    "top_emotion": "smarrimento",
+    "confidence": 0.5861424207687378,
+    "scores": {
+      "smarrimento": 0.5861424207687378,
+      "paura": 0.17841455340385437,
+      "speranza": 0.11712144315242767,
+      "rabbia": 0.09728690981864929,
+      "tristezza": 0.021034633740782738
+    }
+  }
+]
