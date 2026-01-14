@@ -3,7 +3,6 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Grade: 30/30](https://img.shields.io/badge/Grade-30%2F30-brightgreen.svg)](#)
 
 ---
 
@@ -81,12 +80,10 @@ dante_emotion_analysis/
 │   │   └── lexicon_based.py        # LexiconEmotionAnalyzer
 │   └── preprocessing/      # Text tokenization (TerzinaTokenizer)
 │
-├── docs/                   # Presentation materials
-│   ├── DEFENSE_SCRIPT.md
-│   ├── CASE_STUDIES_PRESENTATION.md
-│   └── TEORIA_E_LOGICA_PROGETTO.md
+├── docs/                   # Supplementary materials
+│   └── CASE_STUDIES_PRESENTATION.md
 │
-└── output/                 # Generated Results (gitignored)
+└── output/                 # Analysis Results (included for showcase)
     ├── zeroshot_curve.png
     ├── zeroshot_heatmap.png
     ├── lexicon_curve.png
@@ -128,10 +125,8 @@ Raw data is saved in `output/zeroshot_results.json` with scores for each emotion
 
 ## 📚 Documentation
 
-Additional materials are available in the `docs/` folder:
-- `PAPER_SECTION.md` - Full methodology and scientific rationale
-- `DEFENSE_SCRIPT.md` - Oral exam talking points
-- `TEORIA_E_LOGICA_PROGETTO.md` - Theoretical foundations (Italian)
+- `PAPER_SECTION.md` - Full methodology and scientific rationale (root directory)
+- `docs/CASE_STUDIES_PRESENTATION.md` - Interactive case studies with examples
 
 ---
 
@@ -150,7 +145,7 @@ Additional materials are available in the `docs/` folder:
 
 Project developed for the **Digital Italian Literature** course  
 Master's Degree in Language Technologies and Digital Humanities  
-University of Pisa / University of Siena / University of Florence
+University of Turin
 
 ---
 
